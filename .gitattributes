@@ -1,0 +1,8 @@
+# 统一换行符，避免 Windows 本地与仓库之间反复转换
+* text=auto eol=lf
+
+# 二进制文件不做任何转换
+*.png  binary
+*.pdf  binary
+*.xlsx binary
+*.pptx binary
